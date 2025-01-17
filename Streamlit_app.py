@@ -1,4 +1,5 @@
 import numpy as np
+pip install scikit-learn
 
 # List of columns in your dataset
 columns = [
